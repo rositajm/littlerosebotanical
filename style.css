@@ -20,3 +20,11 @@ footer {
     background: #333;
     color: white;
 }
+footer a {
+    color: white; /* Changes link color to white */
+    text-decoration: none; /* Removes underline */
+}
+
+footer a:hover {
+    text-decoration: underline; /* Adds underline on hover for better visibility */
+}
