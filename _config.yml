@@ -1,0 +1,12 @@
+title: Little Rose Botanical
+description: Plant facts, experiments, and DIYs
+theme: minima
+
+# show these pages in the top nav (minima feature)
+header_pages:
+  - journal.md
+  - experiments.md
+  - plants.md
+  - wildlife.md
+  - pond.md
+  - tags.md
