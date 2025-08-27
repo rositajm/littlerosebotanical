@@ -1,9 +1,3 @@
 title: Little Rose Botanical
 description: Plant facts, experiments, and DIYs
 theme: minima
-
-header_pages:
-  - index.md      
-  - journal.md
-  - about.md
-  - contact.md
