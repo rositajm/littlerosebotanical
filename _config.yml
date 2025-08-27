@@ -3,7 +3,7 @@ description: Plant facts, experiments, and DIYs
 theme: minima
 
 header_pages:
-  - index.md      # your homepage (sometimes it's index.html, but minima will ignore it in nav)
+  - index.md      
   - journal.md
   - about.md
   - contact.md
